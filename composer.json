@@ -1,12 +1,12 @@
 {
     "name": "carropublic/follow",
-    "description": ":package_description",
-    "license": "license",
+    "description": ":Followable polymorph",
+    "license": "MIT",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "Sithu Aung",
+            "email": "sithu.aung@carro.co",
+            "homepage": "https://carro.sg"
         }
     ],
     "homepage": "https://github.com/carropublic/follow",
